@@ -1,1 +1,1 @@
-# measureAngleEx
+基于osgearth的角度测量，参考QGIS(https://www.qgis.org/)
